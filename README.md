@@ -11,7 +11,7 @@ Copy the files to your webserver.
 
 The following screenshot illustrates the message displayed when visiting `index.php`:
 
-![Screenshot](https://raw.githubusercontent.com/nrollr/Bookmarklet/screenshot/images/screenshot%402x.png)
+![Screenshot](https://raw.githubusercontent.com/nrollr/Bookmarklet/screenshot/images/screenshot%402px.png)
 
 Simply drag and drop the link using the icon in your Bookmarks bar. It will appear as `Bookmark!`
 
