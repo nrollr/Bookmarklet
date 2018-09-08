@@ -6,4 +6,4 @@ CREATE TABLE `bookmarks` (
 	`date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
 	PRIMARY KEY (`id`),
 	UNIQUE KEY `hash` (`hash`)
-) ENGINE=MyISAM EFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
